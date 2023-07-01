@@ -1,0 +1,7 @@
+setup git
+automate the build
+turn on all ErrorMessages
+
+
+
+#from book
