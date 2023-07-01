@@ -1,3 +1,4 @@
+choose your stack, install extensions
 setup git
 automate the build
 turn on all ErrorMessages
