@@ -1,0 +1,1 @@
+'C:\Program Files\Java\jdk-19\bin\java.exe' '-agentlib:jdwp=transport=dt_socket,server=n,suspend=y,address=localhost:50907' '-XX:+ShowCodeDetailsInExceptionMessages' '-cp' 'C:\Users\35799\AppData\Roaming\Code\User\workspaceStorage\6c3c095df5d0471f13b3564be69e618b\redhat.java\jdt_ws\fullstack_651ec9\bin' 'backend.webservice.Program'

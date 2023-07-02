@@ -1,0 +1,1 @@
+to execute basicBuild.bat run ./basicBuild.bat to build the code
